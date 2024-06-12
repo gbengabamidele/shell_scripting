@@ -14,4 +14,11 @@ echo -e "\e[35mHello in Magenta Color\e[0m"
 echo -e "\e[36mHello in Cyan Color\e[0m"
 
 
+y=(10 20 30 40 50)
+
+echo ${y[0]}
+echo ${y[1]}
+echo ${y[2]}
+echo ${y[3]}
+echo ${y[4]}
 
