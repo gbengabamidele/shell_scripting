@@ -23,3 +23,4 @@ echo "your name = ${name}, your age = ${age}"
  echo ${y[3]}
  echo ${y[4]}
 
+echo A=${A}
