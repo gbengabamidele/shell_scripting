@@ -9,6 +9,7 @@ if [ "${age}" -lt 18 ]; then
     echo you are senior citizen
       
   else
+    echo you are major
 
-
+fi
 
