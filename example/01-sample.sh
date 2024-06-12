@@ -22,3 +22,4 @@ echo ${y[2]}
 echo ${y[3]}
 echo ${y[4]}
 
+echo A=${A}
